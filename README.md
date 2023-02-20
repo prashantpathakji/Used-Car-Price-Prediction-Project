@@ -1,9 +1,9 @@
 # Used-Car-Price-Prediction-Project
-Flip Robo Project(INT33)
+## Flip Robo Project(INT33)
 
 
-PROJECT
-CAR PRICE PREDICTION
+### PROJECT
+### CAR PRICE PREDICTION
 With the covid 19 impact in the market, we have seen lot of changes in the car market. Now some 
 cars are in demand hence making them costly and some are not in demand hence cheaper. One 
 of our clients works with small traders, who sell used cars. With the change in market due to covid 
@@ -21,12 +21,15 @@ used car model. You can make changes to it, you can add or you can remove some c
 completely depends on the website from which you are fetching the data.
 Try to include all types of cars in your data for example- SUV, Sedans, Coupe, minivan, 
 Hatchback.
-Note – The data which you are collecting is important to us. Kindly don’t share it on any public platforms.
+
+### Note – 
+The data which you are collecting is important to us. Kindly don’t share it on any public platforms.
 Model Building Phase
 After collecting the data, you need to build a machine learning model. Before model building do all 
 data pre-processing steps. Try different models with different hyper parameters and select the best 
 model.
-Follow the complete life cycle of data science. Include all the steps like.
+
+### Follow the complete life cycle of data science. Include all the steps like.
 1. Data Cleaning
 2. Exploratory Data Analysis
 3. Data Pre-processing
